@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\forbidden_hosts\bin\Debug\netcoreapp3.1\forbidden_hosts.exe
+C:\Users\Пользователь\source\repos\forbidden_hosts\bin\Debug\netcoreapp3.1\forbidden_hosts.deps.json
+C:\Users\Пользователь\source\repos\forbidden_hosts\bin\Debug\netcoreapp3.1\forbidden_hosts.runtimeconfig.json
+C:\Users\Пользователь\source\repos\forbidden_hosts\bin\Debug\netcoreapp3.1\forbidden_hosts.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\forbidden_hosts\bin\Debug\netcoreapp3.1\forbidden_hosts.dll
+C:\Users\Пользователь\source\repos\forbidden_hosts\bin\Debug\netcoreapp3.1\forbidden_hosts.pdb
+C:\Users\Пользователь\source\repos\forbidden_hosts\obj\Debug\netcoreapp3.1\forbidden_hosts.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\forbidden_hosts\obj\Debug\netcoreapp3.1\forbidden_hosts.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\forbidden_hosts\obj\Debug\netcoreapp3.1\forbidden_hosts.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\forbidden_hosts\obj\Debug\netcoreapp3.1\forbidden_hosts.dll
+C:\Users\Пользователь\source\repos\forbidden_hosts\obj\Debug\netcoreapp3.1\forbidden_hosts.pdb

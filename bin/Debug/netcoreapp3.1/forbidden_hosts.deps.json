@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "forbidden_hosts/1.0.0": {
+        "runtime": {
+          "forbidden_hosts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forbidden_hosts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
